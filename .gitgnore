@@ -1,0 +1,5 @@
+.env
+/var/cache/volt/*
+/var/cache/logs/*
+/public/phpMyAdmin/*
+/vendor/*
